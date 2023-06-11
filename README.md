@@ -1,4 +1,13 @@
-# DEVELOP A SIMPLE CALCULATOR USING REACT FRAMEWORK
+# EXPERIMENT 06: DEVELOP A SIMPLE CALCULATOR USING REACT FRAMEWORK
+## AIM:
+To develop a simple calculator using react framework.
+## ALGORTIHM:
+1. Cretae a new react project named todolist.
+2. Import required hooks from the react.
+3. Program the function App() with required components.
+4. Export the default app at the end of function component.
+5. Add required styling to the component.
+6. Display the project using the command npm start.
 ## PROGRAM:
 ```
 DEVELOPED BY:RITHIGAS SRI.B
